@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">Confira em <a href="https://github.com/EliasGcf/fastfeet/blob/master/web/ETAPA_03.md">ETAPA 3</a> as instruções para os próximos passos</p>
-s
+
 <h3 align="center">
   :warning: Etapa 2/4 do Desafio Final :warning:
 </h3>
