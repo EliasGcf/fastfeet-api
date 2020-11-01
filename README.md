@@ -14,7 +14,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/fastfeet-api?color=%237D40E7">
 
   <a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-elias%20gabriel-%237D40E7">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%237D40E7">
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/fastfeet-api?color=%237D40E7">
